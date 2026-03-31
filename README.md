@@ -33,6 +33,7 @@ MySQL
 Object-Oriented Programming (OOP)
 
 ### 📁 Project Structure
+```
 Hospital-Management/
 │
 ├── main.py           # CLI-based system
@@ -48,7 +49,7 @@ Hospital-Management/
 │
 ├── images/           # UI images
 └── docs/             # Documentation (optional)
-
+```
 ### ⚙️ Setup Instructions
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/hospital-management-system.git
